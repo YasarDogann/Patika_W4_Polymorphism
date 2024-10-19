@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\bin\Debug\net8.0\patika_w4_Polymorphism.exe
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\bin\Debug\net8.0\patika_w4_Polymorphism.deps.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\bin\Debug\net8.0\patika_w4_Polymorphism.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\bin\Debug\net8.0\patika_w4_Polymorphism.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\bin\Debug\net8.0\patika_w4_Polymorphism.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\patika_w4_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\patika_w4_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\patika_w4_Polymorphism.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\patika_w4_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\patika_w4_Polymorphism.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\refint\patika_w4_Polymorphism.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\patika_w4_Polymorphism.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\patika_w4_Polymorphism.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Polymorphism\patika_w4_Polymorphism\obj\Debug\net8.0\ref\patika_w4_Polymorphism.dll
